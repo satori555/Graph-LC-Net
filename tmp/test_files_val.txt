@@ -1,0 +1,10 @@
+./dataset/graphene_eval/1935.pt
+./dataset/graphene_eval/1573.pt
+./dataset/graphene_eval/1123.pt
+./dataset/graphene_eval/1759.pt
+./dataset/graphene_eval/1309.pt
+./dataset/graphene_eval/1841.pt
+./dataset/graphene_eval/1597.pt
+./dataset/graphene_eval/1147.pt
+./dataset/graphene_eval/1865.pt
+./dataset/graphene_eval/1415.pt

@@ -1,0 +1,8 @@
+torch==1.9.0+cu111
+torch-cluster==1.5.9
+torch-geometric==1.7.2
+torch-scatter==2.0.7
+torch-sparse==0.6.10
+torchaudio==0.9.0
+torchvision==0.10.0+cu111
+torchviz==0.0.2
